@@ -1,10 +1,10 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=2
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=fruityLoops
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.6.1
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Fruity Loops Coding Dojo
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.zach.fruityLoops
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=11
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=fruityLoops
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.example.demo
