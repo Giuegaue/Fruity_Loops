@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+E:\coding_dojo_assignments\Java\Fruity Loops\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1979133176.index
+\fruityLoops\src\main\java
+E:\coding_dojo_assignments\Java\Fruity Loops\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2467655142.index
+\fruityLoops\src\main\java
+E:\coding_dojo_assignments\Java\Fruity Loops\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3951665429.index
+\fruityLoops\src\main\java
+E:\coding_dojo_assignments\Java\Fruity Loops\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1158886678.index
+\fruityLoops\src\main\java
